@@ -1,0 +1,48 @@
+-----------------------------BIG O NOTATION-----------------------
+1. What's Big O Notation
+It's used to measure/quantify the performance of different algorithms
+
+2. The best solution is?
+In the interview, or in a big company where you need to deal with big datasets, it's important to produce high performance code
+
+3. Trade-off
+Time VS Space is the common trade-off
+
+4. Compare two functions in AddUpTo.js
+What's the better one and what does better mean?
+It usually refers to #SPEED# and #MEMORY COST#
+
+5. Big O
+It's a way to formalize fuzzy counting! We say an algorithm is O(f(n)) if the number of simple operations 
+It could be linear f(n) = n
+It could be quadratic f(n) = n^2
+It could be constant f(n) = 1
+
+6.1 Constants Don't Matter
+O(2n) -> O(n)
+O(200) -> O(1)
+O(13n^2) -> O(n^2)
+Because in a long term, it doesn't really matter!
+
+6.2 Smaller Terms Don't Matter
+O(n + 10) -> O(n)
+O(n^2 + 5n + 8) -> O(n^2)
+
+7 Big O Short Hands
+ - Arithmetic operations are constant
+ - Variable assignment is constantAccessing elements in an array is constant
+ - In a loop, the complexity is the length of loop times whatever happens inside the loop
+
+-----------------------------SPACE COMPLEXITY-----------------------
+1. Auxiliary Space Complexity
+Some times its called auxiliary space complexity, means the space required by the algorithm, not including space that inputs tool
+
+2. Space Complexity in js
+ - Most primitives are constant space
+ - String require O(n) space (n is length)
+ - Reference types are generally O(n), where n is length for arrays or number of keys
+
+---------------------------Logarithms--------------------------------------
+1. Why cares?
+O(logn) is a very ideal complexity
+Some efficient sortinng algorithms and recursion sometimes involves logarithmic space complexity
