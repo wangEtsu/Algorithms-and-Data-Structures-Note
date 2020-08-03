@@ -1,0 +1,14 @@
+---------------------------OBJECTS--------------------
+1. Big O of OBJECTS
+ - Insertion O(1) it's fast!
+ - Removal O(1)
+ - Searching O(N)
+ - Access O(1)
+
+
+ ----------------------------ARRAYS-------------------------------
+ 1. Big O of ARRAYS
+  - Insertion depends (on where you wanna insert)
+  - Removal depends (on where you wanna remove)
+  - Searching O(N)
+  - Access O(1)
