@@ -1,0 +1,21 @@
+1. Problem Solving Startegies
+ - Understand the Problem
+ - Explore Concrete Examples
+ - Break It Down
+ - Solve/Simplify
+ - Look Back and Refactor
+
+ Understand the problem, what's the potential input?
+ Explore Examples, start with simple examples
+
+ 2. Don't afraid to ask question during the interview
+ As long as it shows your problem solving skills
+
+ 3. Refactor the question
+  - Can you improve the performance?
+  - Can you use the method for other problems?
+  - How have other people solved this problem?
+
+ 4. Interview Startegies
+  - Let the interview know your thinking startegy
+  - Let them know you have other thoughts even you weren't able to solve it 100%
