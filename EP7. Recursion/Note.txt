@@ -1,0 +1,24 @@
+1. What is recursion?
+It's a process (function) that calls itself
+
+2. Why recursion?
+It's popular among many methods, and sometimes eaiser, cleaner
+
+3. The call stack
+Everytime a function is called, its pushed into the call stack, when the return key is revoked, its poped from the stack
+
+4. Two essential part: Base Case & Different Input
+Base Case: Condition when it ends
+Different Input: The input has to be changing
+
+5. Common problem in recursion
+Missing base case (exit point)
+
+6. Helper method
+Use inner & outer function
+
+7. Pure recursion
+Return the value to avoid resetting array?
+For arrays, use methods like slice, the spread, concat that make copies of arrays so you do not nutate them
+
+8.
