@@ -1,0 +1,32 @@
+1. Some problems have the same pattern:
+ - Frequency counters
+ - Multiple pointers
+ - Sliding window
+ - Divide and Conquer
+ - Dynamic Programming
+
+1. Frequency counters
+Use objs or sets to collect frequencies
+
+Example: Same.js
+Compare two same solution:
+You should always avoid nested loop as it comes out with an O(n^2)
+The refactored solution calculate the frequencies of each array then comapre if it matches the condition(squares)
+And it comes with a complexity of O(n)
+
+2. Multiple pointers
+Creating pointers or values that correspond to an index or position and move towards the beginning, end, or middle based on certain condition
+Very EFFICIENT for solving problems with minimal space complexity
+
+Example: sumZero.js
+Find pairs of element in an array that add up to 0
+
+3. Sliding Window
+Creating a window which can be an array or number from one position to another
+Useful for keeping track of subset of data in an array/string
+
+4. Divide and Conquer
+Dividing a dataset into smaller chunks and repeating a process 
+It can tremendously decrease time complexity
+Example:
+Binary Search
