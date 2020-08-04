@@ -1,0 +1,20 @@
+1. Searching Algorithm
+
+2. Linear Search
+Loop through the entire array and find the target
+
+3. BIG O Linear Search
+ - Best O(1) Might find in the first one
+ - Worst O(n) Might find in the last one
+ - But Over all, the complexity is O(n)
+
+4. Binary search 
+ - It use the idea of Divide and Conquer
+ - It's way faster
+ - It only works in sorted array
+
+5. BIG O Binary Search
+ - Best O(1)
+ - Worst O(log n) It's really good, almost like O(1)
+
+6. Naive String Search
