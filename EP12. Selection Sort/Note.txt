@@ -1,0 +1,6 @@
+1. Selection Sort Overview
+Similar to bubble sort, SMALL value are plcaed into sorted position
+For each iteration: Find the minimum element and swap it with the first element (exclude sorted elements)
+
+2. Time Complexity
+Same as Bubble Sort O(n^2)
