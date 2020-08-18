@@ -1,0 +1,6 @@
+1. Insertion Sort Overview
+Constantly keep a sorted portion of array until everything is sorted
+
+2. Time Complexity
+O(n^2)
+But its commonly used when we need to accept new number coming in (Since it always keep a sorted portion of list)
