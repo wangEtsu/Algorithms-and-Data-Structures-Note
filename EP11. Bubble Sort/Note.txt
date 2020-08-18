@@ -1,0 +1,10 @@
+1. Sorting Overview
+Different Sorting algorithms have their own advantages and disadvantages
+
+https://www.toptal.com/developers/sorting-algorithms
+
+2. Bubble Sort
+Largest element merge to the top each iteration
+
+3. Bubble Sort Optimization
+In a nearly sorted array, if there is no swap in one ITERATION, then its already sorted
