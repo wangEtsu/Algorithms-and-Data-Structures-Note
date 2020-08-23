@@ -1,0 +1,18 @@
+1. Intermediate Sorting Algorithms
+Following episode will include:
+ - Merge Sort
+ - Quic Sort
+ - Radix Sort
+
+2. Why?
+ Bubble/Insertion/Selection Sort does well in small dataset, but doesn't in large dataset
+
+3. Merge Sort
+It has a time complexity of O(nlogn), comparing to O(n^2) of bubble Sort
+! There's a tradeoff between Simplicity and Efficiency
+
+4. Dive into Merge Sort
+Arrays of 0 / 1 element are already sorted: [3], [5]..
+Merge sort works by decomposing an array into smaller arrays of 0/1 elements
+It's Divide and Conquer
+Splitting up -> Merging 
