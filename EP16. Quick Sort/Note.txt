@@ -1,0 +1,9 @@
+1. Quick Sort Overview
+Find an element (pivot point )
+Move all elements smaller to the left
+Move all elements greater to the right
+
+2. Picking the pivot
+It can be pick randomly, ideally it will be better if its the middle point
+But we can just pick the first element as the pivot
+
