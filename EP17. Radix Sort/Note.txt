@@ -1,0 +1,8 @@
+1. Comparison Sort
+What we are doing before are all comparison sort: bubble, insert, quick...
+There's a limit for comparison sort (Mathematic Boundary)
+
+2. Can we do better?
+Yes, but without comparison sort
+
+3. Radix Sort
